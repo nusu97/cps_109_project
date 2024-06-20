@@ -1,0 +1,8 @@
+do laundary|Not Done
+study for final|Not Done
+do groceries|Done
+work on my project|Done
+doctor appointment checkup|Not Done
+get henna done|Not Done
+finish AI math training task|Done
+prepare for bootcamp interview|Not Done

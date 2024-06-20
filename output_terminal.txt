@@ -1,0 +1,186 @@
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: do laundary
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: study for final
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 3
+Enter the task title to mark as completed: do laundary
+Task marked as completed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 4
+Task: do laundary, Status: Done
+Task: do laundary, Status: Not Done
+Task: study for final, Status: Not Done
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: do groceries
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: work on my project
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 3
+Enter the task title to mark as completed: do grocery
+Task marked as completed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 3
+Enter the task title to mark as completed: work on my project
+Task marked as completed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: doctor appointment checkup
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 3
+Enter the task title to mark as completed: do groceries
+Task marked as completed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: 1
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: get henna done
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 2
+Enter the task title to remove: 1
+Task removed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: finish AI math training task  
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 1
+Enter the task title: prepare for bootcamp interview
+Task added.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 3
+Enter the task title to mark as completed: finish AI math training task
+Task marked as completed.
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 4
+Task: do laundary, Status: Done
+Task: do laundary, Status: Not Done
+Task: study for final, Status: Not Done
+Task: do groceries, Status: Done
+Task: work on my project, Status: Done
+Task: doctor appointment checkup, Status: Not Done
+Task: get henna done, Status: Not Done
+Task: finish AI math training task, Status: Done
+Task: prepare for bootcamp interview, Status: Not Done
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Enter your choice: 5
+Exiting the application.
